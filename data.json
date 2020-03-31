@@ -1,0 +1,92 @@
+[  
+  {  
+    "key":"Current State",
+    "values":[  
+      {  
+        "objective":"Quality",
+        "state":"Current State",
+        "value":1
+      },
+      {  
+        "objective":"Speed",
+        "state":"Current State",
+        "value":2
+      },
+      {  
+        "objective":"Dependability",
+        "state":"Current State",
+        "value":3
+      },
+      {  
+        "objective":"Flexibility",
+        "state":"Current State",
+        "value":4
+      },
+      {  
+        "objective":"Cost",
+        "state":"Current State",
+        "value":5
+      }
+    ]
+  },
+  {  
+    "key":"Desired State",
+    "values":[  
+      {  
+        "objective":"Quality",
+        "state":"Desired State",
+        "value":3
+      },
+      {  
+        "objective":"Speed",
+        "state":"Desired State",
+        "value":4
+      },
+      {  
+        "objective":"Dependability",
+        "state":"Desired State",
+        "value":1
+      },
+      {  
+        "objective":"Flexibility",
+        "state":"Desired State",
+        "value":2
+      },
+      {  
+        "objective":"Cost",
+        "state":"Desired State",
+        "value":5
+      }
+    ]
+  },
+  {  
+    "key":"Competitor",
+    "values":[  
+      {  
+        "objective":"Quality",
+        "state":"Competitor",
+        "value":3
+      },
+      {  
+        "objective":"Speed",
+        "state":"Competitor",
+        "value":5
+      },
+      {  
+        "objective":"Dependability",
+        "state":"Competitor",
+        "value":1
+      },
+      {  
+        "objective":"Flexibility",
+        "state":"Competitor",
+        "value":4
+      },
+      {  
+        "objective":"Cost",
+        "state":"Competitor",
+        "value":3
+      }
+    ]
+  }
+]
